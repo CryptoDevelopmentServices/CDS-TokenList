@@ -1,0 +1,55 @@
+{
+    "name": "Crypto Development Services Tokens",
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmTni2KmHAi3Dv2crL8YAodYk4tSZbCMffwxekgPXEdsyA",
+    "keywords": [
+      "crypto development services"
+    ],
+    "tags": {
+      "cds": {
+        "name": "Crypto Development Services Tokens",
+        "description": "Tokens that are created by Crypto Development Services"
+      }
+    },
+    "timestamp": "2021-10-07T19:39:41+00:00",
+    "tokens": [
+      {
+        "chainId": 56,
+        "address": "0x23f07a1c03e7c6d0c88e0e05e79b6e3511073fd5",
+        "symbol": "CDS",
+        "name": "Crypto Development Services",
+        "decimals": 8,
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmTni2KmHAi3Dv2crL8YAodYk4tSZbCMffwxekgPXEdsyA",
+        "tags": [
+          "cds"
+        ]
+      },
+      {
+        "chainId": 56,
+        "address": "0x6c015277b0f9b8c24b20bd8bbbd29fdb25738a69",
+        "symbol": "WNYC",
+        "name": "Wrapped NewYorkCoin",
+        "decimals": 18,
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmXMmk3KTWxS7f2jiA1dNTN6G7SikqWP8jEmAYXn43ZM72",
+        "tags": [
+          "wnyc"
+        ]
+      },
+      {
+        "chainId": 56,
+        "address": "0x62f0af40a943c5db50acf941a025c08edbdbbf0e",
+        "symbol": "WBEET",
+        "name": "Wrapped BeetleCoin",
+        "decimals": 8,
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmVGzxAyPx5fyrvUa5Ty9iBJ4sh7Gk539ZtqS9SyUkA1FQ",
+        "tags": [
+          "wbeet"
+        ]
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  
